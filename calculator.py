@@ -13,4 +13,5 @@ def divde(a,b) :
 	else : return a/b
 
 def mod(a,b):
+	if b == 0: return 0
 	return a%b
