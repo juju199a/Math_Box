@@ -10,4 +10,4 @@ def multiply(a,b) :
 
 def divde(a,b) :
 	if b == 0: return 0
-	return a/b
+	else : return a/b
