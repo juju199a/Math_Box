@@ -11,3 +11,6 @@ def multiply(a,b) :
 def divde(a,b) :
 	if b == 0: return 0
 	else : return a/b
+
+def mod(a,b):
+	return a%b
