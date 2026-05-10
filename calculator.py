@@ -8,9 +8,8 @@ def subtract(a,b) :
 def multiply(a,b) :
 	return a*b
 
-def divde_premium(a,b) :
-	if b == 0: return 0
-	else : return a/b
+def divide_new(a, b):
+	return a/b
 
 def mod(a,b):
 	if b == 0: return 0
