@@ -14,3 +14,7 @@ def divide_new(a, b):
 def mod(a,b):
 	if b == 0: return 0
 	return a%b
+
+def say_hello():
+	print("hello")
+	
