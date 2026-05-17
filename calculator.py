@@ -14,3 +14,6 @@ def divide_new(a, b):
 def mod(a,b):
 	if b == 0: return 0
 	return a%b
+
+def get_Median(a, b):
+	return (a+b)/2
