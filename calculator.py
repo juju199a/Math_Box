@@ -18,3 +18,6 @@ def mod(a,b):
 
 def square(a):
 	return a*a
+
+def main_edit():
+	print("main edit")
