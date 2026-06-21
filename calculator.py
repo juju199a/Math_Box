@@ -42,4 +42,5 @@ def factorial(n):
 		n = n - 1
 	return num
 
-	
+def emergency():
+	print("emergency")
