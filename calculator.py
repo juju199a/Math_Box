@@ -15,14 +15,14 @@ def divide_new(a, b):
 
 
 def divde_free(a, b):
-    if b == 0: 
+    if b == 0:
         return 0
-    else: 
+    else:
         return a / b
 
 
 def mod(a, b):
-    if b == 0: 
+    if b == 0:
         return 0
     return a % b
 
