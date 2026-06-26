@@ -1,1 +1,1 @@
-print(    'codeit'    )
+print('codeit')
